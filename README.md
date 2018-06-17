@@ -8,6 +8,8 @@ We provide a graphical user interface (GUI) for simulating stochastic models of 
 ## Use
 The ready-for-use program `Simulator.jar` is available for download in this repository, and is designed with an intuitive interface. For more detailed instructions, a complete documentation is available in `manual.pdf`. 
 
+The source code of the program, zipped in `Hemotopoiesis Project 2_20180429.rar`, is written in Java Programming Language and is available for download in this repository.
+
 The R script `example_multiOutput.R` provides example code illustrating how one may analyze and plot statistics describing the output of batch simulations. 
 
 Our software is open-source, and the included raw source files may be modified and distributed according to the GNU general public license as detailed in `LICENSE`
